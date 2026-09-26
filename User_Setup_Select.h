@@ -22,6 +22,7 @@
 //#include <User_Setup.h>           // Default setup is root library folder
 
 //#include <User_Setup_og_marauder.h>
+#include <User_Setup_marauder_st7789_240.h>  // Active: 1.54" ST7789 240x240 replacement display
 //#include <User_Setup_id_receiver.h>
 //#include <User_Setup_marauder_mini.h>
 //#include <User_Setup_marauder_rev_feather.h>
